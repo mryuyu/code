@@ -1,2 +1,2 @@
 # code
-print('Hello World')
+
